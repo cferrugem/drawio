@@ -4,25 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QUMbAuIZpF49UXsMi_Yk-1" value="EAC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QUMbAuIZpF49UXsMi_Yk-1" value="EAC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="30" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QUMbAuIZpF49UXsMi_Yk-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="QUMbAuIZpF49UXsMi_Yk-2" value="" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="50" as="sourcePoint" />
             <mxPoint x="250" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QUMbAuIZpF49UXsMi_Yk-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="QUMbAuIZpF49UXsMi_Yk-3" value="" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="60" as="sourcePoint" />
             <mxPoint x="240" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QUMbAuIZpF49UXsMi_Yk-4" value="JAVA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QUMbAuIZpF49UXsMi_Yk-4" value="JAVA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="10" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QUMbAuIZpF49UXsMi_Yk-5" value="JAVA (NFCO - NFS)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QUMbAuIZpF49UXsMi_Yk-5" value="JAVA (NFCO - NFS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="70" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
