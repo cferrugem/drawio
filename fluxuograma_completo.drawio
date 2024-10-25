@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
   <diagram name="Página-1" id="A-V--XsspcCzu0u9TLLc">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hONxpYcpvomNpsaaPsFR-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: Aptos; font-weight: 700; background-color: rgb(255, 255, 0);&quot;&gt;EAC&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Outra Equipe&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hONxpYcpvomNpsaaPsFR-3" value="&lt;p style=&quot;language:pt-BR;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: Aptos; background: yellow; font-weight: bold;&quot;&gt;JAVA&lt;/span&gt;&lt;span style=&quot;font-family: Aptos;&quot;&gt; –&lt;br&gt;Envia ao Banco e Recebe novamente o dado&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hONxpYcpvomNpsaaPsFR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hONxpYcpvomNpsaaPsFR-4" target="hONxpYcpvomNpsaaPsFR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hONxpYcpvomNpsaaPsFR-4" value="&lt;p style=&quot;language:pt-BR;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Aptos&quot;&gt;Envir à Prefeitura a SEFAZ. SEFAZ retorna a informação ao Java&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hONxpYcpvomNpsaaPsFR-5" value="" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="353.07" y="100" as="sourcePoint" />
+            <mxPoint x="353" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hONxpYcpvomNpsaaPsFR-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;entryX=-0.004;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hONxpYcpvomNpsaaPsFR-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="55" as="sourcePoint" />
+            <mxPoint x="250" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hONxpYcpvomNpsaaPsFR-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="100" as="sourcePoint" />
+            <mxPoint x="310" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
