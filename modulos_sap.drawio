@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
   <diagram name="Página-1" id="zAEK4qtqUi5M_X3Rb6sc">
-    <mxGraphModel dx="2430" dy="3207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="2829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="ab4cVDcRjz08bC6YEROE-30" value="GRC - AC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="690" y="-570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-31" value="A solução que SAP GRC oferece ferramentas para uma gestão completa e automatizada dos processos organizacionais que envolvem potenciais riscos para a governança da empresa, adequando as regras de compliance para uma gestão segura e preventiva&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-340" width="310" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
