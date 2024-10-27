@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
   <diagram name="Página-1" id="zAEK4qtqUi5M_X3Rb6sc">
-    <mxGraphModel>
+    <mxGraphModel dx="992" dy="1707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ab4cVDcRjz08bC6YEROE-1" value="Módulos do SAP (Estrutura Zaffari - Visão Geral)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-1160" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-2" value="CARAB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#000000;labelBackgroundColor=#000000;fillColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="-1020.48" as="sourcePoint" />
+            <mxPoint x="440" y="-1020.48" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-5" value="&lt;b&gt;PI&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-1035" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-6" value="&lt;b&gt;ECC&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-1035" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
