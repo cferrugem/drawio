@@ -1,26 +1,98 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
   <diagram name="Página-1" id="zAEK4qtqUi5M_X3Rb6sc">
-    <mxGraphModel dx="992" dy="1707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2216" dy="3091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ab4cVDcRjz08bC6YEROE-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-1210" width="1230" height="640" as="geometry" />
+        </mxCell>
         <mxCell id="ab4cVDcRjz08bC6YEROE-1" value="Módulos do SAP (Estrutura Zaffari - Visão Geral)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-1160" width="420" height="40" as="geometry" />
+          <mxGeometry x="260" y="-1190" width="420" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ab4cVDcRjz08bC6YEROE-2" value="CARAB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="250" y="-1050" width="120" height="60" as="geometry" />
+        <mxCell id="ab4cVDcRjz08bC6YEROE-2" value="CARAB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-1080" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ab4cVDcRjz08bC6YEROE-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#000000;labelBackgroundColor=#000000;fillColor=#000000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="-1020.48" as="sourcePoint" />
-            <mxPoint x="440" y="-1020.48" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ab4cVDcRjz08bC6YEROE-5" value="&lt;b&gt;PI&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ab4cVDcRjz08bC6YEROE-5" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;PI&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="440" y="-1035" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ab4cVDcRjz08bC6YEROE-6" value="&lt;b&gt;ECC&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-1035" width="70" height="30" as="geometry" />
+        <mxCell id="ab4cVDcRjz08bC6YEROE-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;ECC&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-1070" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#9AC7BF;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;fillColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-1050" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-10" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;labelBackgroundColor=#000000;fillColor=#000000;endWidth=13.11111111111111;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ab4cVDcRjz08bC6YEROE-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="-1020.19" as="sourcePoint" />
+            <mxPoint x="240" y="-1020.19" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="-1020.19" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-12" value="EAC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-13" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;labelBackgroundColor=#000000;fillColor=#000000;endWidth=13.11111111111111;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="-1020.48" as="sourcePoint" />
+            <mxPoint x="440" y="-1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="-1020.48" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-15" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;labelBackgroundColor=#000000;fillColor=#000000;endWidth=13.11111111111111;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ab4cVDcRjz08bC6YEROE-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="-1020.33" as="sourcePoint" />
+            <mxPoint x="550" y="-1020.33" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="-1020.33" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ab4cVDcRjz08bC6YEROE-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="-1000" as="sourcePoint" />
+            <mxPoint x="470" y="-1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-17" value="Funciona como um carteiro. Pega dados de um sistema e envia para outro." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-1120" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-20" value="Customer Activity Repository (CAR) é um repositório&amp;nbsp; onde ficam armazenadas as vendas (cupons)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-870" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.468;exitY=-0.054;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ab4cVDcRjz08bC6YEROE-20" target="ab4cVDcRjz08bC6YEROE-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="-880" as="sourcePoint" />
+            <mxPoint x="152.5" y="-940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-22" value="Parte fiscal e contábil, contas a pagar, receber e logística, quantos naturale vendeu, estoque." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-1120" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.289;exitY=1.09;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab4cVDcRjz08bC6YEROE-22" target="ab4cVDcRjz08bC6YEROE-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="-1060" as="sourcePoint" />
+            <mxPoint x="610" y="-1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-24" value="BI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="ab4cVDcRjz08bC6YEROE-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="-700" as="sourcePoint" />
+            <mxPoint x="330" y="-760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-26" value="Business Inteligence (BI) oferece funcionalidades&amp;nbsp; que ajudam os usuários a tomar decisões mais eficazes e bem fundamentas, com base em análises e dados sólidos (relatórios / dashboards / exploração)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-730" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ab4cVDcRjz08bC6YEROE-27" value="GRC - NFE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
